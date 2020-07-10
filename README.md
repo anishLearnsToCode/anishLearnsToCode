@@ -12,5 +12,5 @@
 > instagram: anish.sachdeva_
 > github: anishLearnsToCode
 > medium: @anishsachdeva
-> mailto: anishviewer [at] gmail.com
+> mailto: anish_ [at] outlook.com
 ````
