@@ -10,8 +10,8 @@
         Potterhead 🧙‍♂️ | 
         Greek Mythology 🐲 Enthusiast | 
         Photography <a href="https://www.instagram.com/anish.sachdeva_">📷</a> |
-        <a href=""><img src="https://img.icons8.com/color/20/000000/typescript.png"/></a> Enthusiast
+        TypeScript Enthusiast (No haters please 🙏)
     </p>
+    <p>Interested In solving challenges on <a href="https://github.com/anishLearnsToCode/hackerrank-java">HackerRank</a></p>
+    <p>Machine Learning and Computer Vision (like everyone else these days)</p>
 </div>
-
-- Interested in solving programming challenges on [HackerRank](https://github.com/anishLearnsToCode/hackerrank-java)
