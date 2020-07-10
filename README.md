@@ -6,4 +6,11 @@
 
 > Currently an undergrad@DTU batch of '21 studying mathematics and computing engineering and teaching java and python
 > to students at What After College.
+
+> help --contact
+> linkedin: anishsachdeva1998/
+> instagram: anish.sachdeva_
+> github: anishLearnsToCode
+> medium: @anishsachdeva
+> mailto: anishviewer [at] gmail.com
 ````
