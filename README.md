@@ -11,3 +11,6 @@ Currently working on Machine Learning & Computer Vision, See ➡
 [Machine Learning ~ Stanford](https://github.com/anishLearnsToCode/ml-stanford) |
 [Computer Vision Basics ~ University at Buffalo](https://github.com/anishLearnsToCode/computer-vision-basics) |
 [From Mars to Hollywood... ~ Duke](https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
+
+You can further stock me on [LinkedIn](https://www.linkedin.com/in/anishsachdeva1998/) & 
+[Medium](https://medium.com/@anishsachdeva)
