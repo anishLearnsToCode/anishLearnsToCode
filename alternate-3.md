@@ -1,4 +1,4 @@
-I ❤ Harry Potter 🧙‍♂️, Greek Mythology 🐉, [photography 📷](https://www.instagram.com/anish.sachdeva_), Java, 
+I alHarry Potter 🧙‍♂️, Greek Mythology 🐉, [photography 📷](https://www.instagram.com/anish.sachdeva_), Java, 
 TypeScript (no haters please 🙏) & solving problems on HackerRank. Can see (and Contribute) to my solutions to 
 various domains ➡
 [Java](https://github.com/anishLearnsToCode/hackerrank-java) | 
