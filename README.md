@@ -8,7 +8,7 @@
 
 ````bash
 > help --contact
-> linkedin: anishsachdeva1998/
+> linkedin: anishsachdeva1998
 > instagram: anish.sachdeva_
 > github: anishLearnsToCode
 > medium: @anishsachdeva
