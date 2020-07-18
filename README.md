@@ -14,6 +14,7 @@
 > instagram: anish.sachdeva_
 > github: anishLearnsToCode
 > hackerrank: anishviewer
+> spotify: 31r6afaliqqks3n2g2o5jqpfi67e
 > medium: @anishsachdeva
 > mailto: anish_ [at] outlook.com
 ````
