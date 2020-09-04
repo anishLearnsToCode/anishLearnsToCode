@@ -1,7 +1,7 @@
 ````bash
 > help --info
 > A potterhead and greek mythology enthusianst who mainly programs in Java and has recently ventured out into Python. Is
-> trying out ML to see what all the fuss is about and he might actually ❤ it. Likes solving problems on hackerrank.
+> trying out ML to see what all the fuss is about and he might actually <3 it. Likes solving problems on hackerrank.
 > Currently an undergrad@DTU batch of 2021 studying mathematics and computing engineering and teaching java and python
 > to students at What After College.
 > See more at anishlearnstocode.github.io/about/
