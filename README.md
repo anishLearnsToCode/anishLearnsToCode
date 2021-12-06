@@ -1,4 +1,4 @@
-📹 [YouTube Channel](https://www.youtube.com/channel/UC6zEtIjpypm8gADSdHMP5vg)
+📹 [YouTube Channel](https://www.youtube.com/channel/anishLearnsToCode)
 
 ````bash
 > help --info
@@ -10,7 +10,7 @@
 
 ````bash
 > help --contact
-> youtube: channel/UC6zEtIjpypm8gADSdHMP5vg
+> youtube: channel/anishLearnsToCode
 > website: anishLearnsToCode.github.io
 > linkedin: anishsachdeva1998
 > instagram: anish.sachdeva_
