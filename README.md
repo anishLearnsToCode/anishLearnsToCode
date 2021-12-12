@@ -1,5 +1,3 @@
-📹 [YouTube Channel](https://www.youtube.com/channel/anishLearnsToCode)
-
 ````bash
 > help --info
 > A Potterhead and Greek mythology enthusiast who mainly programs in Java and has recently ventured out into Python. Is
