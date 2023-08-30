@@ -1,7 +1,7 @@
 ````bash
 > help --info
-> A Potterhead and Greek mythology enthusiast who mainly programs in Java and has recently ventured out into Python. Is
-> trying out ML to see what all the fuss is about and he might actually <3 it. Likes solving problems on leetcode.
+> A Potterhead and Greek mythology enthusiast who mainly programs in Java and has recently ventured out into Python.
+> Is trying out ML to see what all the fuss is about and he might actually <3 it. Likes solving problems on leetcode.
 > Undergrad@DTU batch of 2021 and studied mathematics and computing engineering and worked at CERN.
 > Currently working at WEDO in Fribourg as a full stack software dev. 
 > See more at https://www.youtube.com/anishLearnsToCode and anishlearnstocode.github.io/about
